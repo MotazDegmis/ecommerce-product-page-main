@@ -311,9 +311,9 @@ html {
   top: 100%;
   left: 50%;
   width: 350px;
-  -webkit-transform: translate(-60%, 25px);
-  -ms-transform: translate(-60%, 25px);
-  transform: translate(-60%, 25px);
+  -webkit-transform: translate(-65%, 25px);
+  -ms-transform: translate(-65%, 25px);
+  transform: translate(-65%, 25px);
   aspect-ratio: 0;
   background-color: var(--white);
   -webkit-box-shadow: 0px 0px 20px 0px rgb(0 0 0 / 10%);
