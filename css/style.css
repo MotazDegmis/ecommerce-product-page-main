@@ -332,9 +332,9 @@ html {
   .cart__content {
     top: 80px;
     width: 91vw;
-    -webkit-transform: translate(-65%, 25px);
-  -ms-transform: translate(-65%, 25px);
-  transform: translate(-65%, 25px);
+    -webkit-transform: translate(-50%, 25px);
+  -ms-transform: translate(-50%, 25px);
+  transform: translate(-50%, 25px);
   }
 }
 .cart__content.active {
